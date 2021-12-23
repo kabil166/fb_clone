@@ -1,0 +1,16 @@
+.login__logo> img{
+    object-fit: contain;
+    height: 150px;
+}
+.login__logo{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.login{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 100vh;
+}
